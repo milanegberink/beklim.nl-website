@@ -27,5 +27,5 @@
 	);
 </script>
 
-<img src="/logo.png" alt="Logo" />
+<img src="/logo.svg" alt="Logo" />
 <p class="font-mono text-gray-100">{formattedDate} - {formattedTime}</p>
